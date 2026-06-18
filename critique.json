@@ -1,0 +1,11 @@
+{
+  "kind": "critique-panel",
+  "score": 4,
+  "axes": {
+    "clarity": { "score": 4, "notes": "The page follows the sales-copy sequence and keeps CTAs call-focused." },
+    "hierarchy": { "score": 4, "notes": "Hero, proof gallery, and final CTA each have a clear dominant action or message." },
+    "typography": { "score": 4, "notes": "Editorial serif headlines paired with quiet sans body copy support the premium med spa tone." },
+    "motion": { "score": 4, "notes": "Motion is limited to subtle reveal transitions and simple FAQ/nav state changes." },
+    "brand": { "score": 4, "notes": "Muted rose, ivory, charcoal, and champagne details match the Juvly brief without overusing decorative effects." }
+  }
+}
